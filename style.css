@@ -4,7 +4,7 @@ body{
 
 .jumbotron{
     padding-top: 7rem;
-    background-color: #fff0cd;
+    background-color: #a7d9e7;
 }
 
 section{
@@ -26,7 +26,7 @@ section{
     .nav-link:hover::after {
         content: '';
         display: block;
-        border-bottom: 3px solid #fff0cd;
+        border-bottom: 3px solid #a7d9e7;
         width: 50%;
         margin: auto;
         padding-bottom: 5px;
